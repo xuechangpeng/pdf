@@ -896,7 +896,7 @@ const defaultOptions = {
 };
 {
   defaultOptions.defaultUrl = {
-    value: "建筑结构荷载规范(高清版) GB50009-2012.pdf",
+    value: "民用无人驾驶航空器操控员执照考试委任代表管理办法.pdf",
     kind: OptionKind.VIEWER
   };
   defaultOptions.sandboxBundleSrc = {
